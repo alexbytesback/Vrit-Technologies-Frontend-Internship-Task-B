@@ -141,4 +141,4 @@ src/
 ---
 
 ## License
-This project is licensed under the [MIT License](www.google.com).
+This project is licensed under the [MIT License](https://github.com/alexbytesback/Vrit-Technologies-Frontend-Internship-Task-B/blob/main/LICENSE). 

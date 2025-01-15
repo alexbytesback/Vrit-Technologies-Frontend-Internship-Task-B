@@ -6,7 +6,7 @@ This project implements a dynamic Kanban board application using React, TypeScri
 ---
 
 ## Live Demo
-Access the live demo [here](www.google.com).
+Access the live demo [here](https://vrit-technologies-frontend-internship-task-b.vercel.app/).
 
 ---
 

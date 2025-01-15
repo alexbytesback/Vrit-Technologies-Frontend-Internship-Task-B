@@ -32,6 +32,19 @@ Access the live demo [here](www.google.com).
 
 ---
 
+## Folder Structure
+```
+src/
+├── components/        # Reusable UI components
+├── store/             # State management logic
+├── lib/               # Utility functions
+├── types/             # TypeScript definitions
+├── App.tsx            # Main application file
+└── main.tsx           # Entry point
+```
+---
+
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -127,18 +140,20 @@ Approximately **10 hours and 48 minutes** were spent on planning, development, t
 
 ---
 
-## Folder Structure
-```
-src/
-├── components/        # Reusable UI components
-├── store/             # State management logic
-├── lib/               # Utility functions
-├── types/             # TypeScript definitions
-├── App.tsx            # Main application file
-└── main.tsx           # Entry point
-```
+## Feedback and Contact
+If you have any questions or suggestions regarding the project, feel free to reach out:
+
+**Email**: prashantkoirala465@gmail.com
+**GitHub**: [alexbytesback](https://github.com/alexbytesback)
+
+---
+
+Thank you for the opportunity to showcase my skills!
 
 ---
 
 ## License
 This project is licensed under the [MIT License](https://github.com/alexbytesback/Vrit-Technologies-Frontend-Internship-Task-B/blob/main/LICENSE). 
+
+
+---
